@@ -8,3 +8,5 @@ Objective: To develop a terminal-based typing test application. The application 
 2.Terminal-Based Maze Solver:
 
 Objective: To develop a terminal-based application that generates a random maze, finds a path from the start to the end, and visualizes the maze and path in the terminal.
+
+[Download DSA_project.pdf](https://github.com/jaishnidurgasri/DSA-Exploration/blob/main/DSA%20project.pdf)
